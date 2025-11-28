@@ -7,7 +7,6 @@ import java.util.stream.Collectors;
 public class dupCount {
     public static void main(String[] args) {
       
-
 //IntStream.of(1,2,3,4,4,5,6,6)
       Map<Integer, Long> dupCount = 
         List.of(1,2,3,4,4,5,6,6)
